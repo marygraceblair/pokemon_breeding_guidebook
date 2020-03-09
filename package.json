@@ -1,0 +1,18 @@
+{
+  "name": "pokemon_breeding_guidebook",
+  "version": "1.0.0",
+  "description": "Follows the breeding mechanics of generation 2 games",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "MG Blair",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
